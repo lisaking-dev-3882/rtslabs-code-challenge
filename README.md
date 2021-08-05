@@ -1,1 +1,0 @@
-# rtslabs-code-challenge
